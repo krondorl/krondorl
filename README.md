@@ -7,11 +7,11 @@ I'm a curious person with a wide range of interests.
 - 💬 Ask me about philosophy, psychology, meditation, music production or graphic design.
 
 My usual tech stack:
-- JavaScript,
-- TypeScript,
-- Angular,
-- React,
-- Node.js,
-- CSS,
-- Sass / SCSS,
-- HTML
+- JavaScript
+- TypeScript
+- Angular
+- React
+- Node.js
+- CSS
+- Sass / SCSS
+- HTML.
