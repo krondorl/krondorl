@@ -13,5 +13,5 @@ My usual tech stack:
 - React,
 - Node.js,
 - CSS,
-- Sass / SCSS
+- Sass / SCSS,
 - HTML
