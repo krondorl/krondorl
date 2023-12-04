@@ -9,8 +9,6 @@ My usual tech stack:
 - JavaScript
 - TypeScript
 - Angular
-- Java
-- Spring Boot
 - React
 - Node.js
 - CSS
