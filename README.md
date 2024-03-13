@@ -4,7 +4,7 @@ I'm a curious person with a wide range of interests. I'm motivated by creation, 
 
 I started programming in 1996, learning Pascal, C, and Assembly, and became a full-time developer in 2007.
 
-- 🔭 I'm currently working as a front-end and full-stack developer.
+- 🔭 I'm currently working as a full-stack developer.
 - 💬 Ask me about music production or audio engineering.
 
 My usual tech stack:
@@ -19,4 +19,5 @@ My usual tech stack:
 
 Skills under development:
 - Rust
-- German language.
+- German language
+- Go
