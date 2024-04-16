@@ -8,16 +8,12 @@ I started programming in 1996, learning Pascal, C, and Assembly, and became a fu
 - 💬 Ask me about music production or audio engineering.
 
 My usual tech stack:
-- JavaScript
-- TypeScript
+- TypeScript, JavaScript
 - Angular
-- React
+- React, Next.js
 - Node.js
 - CSS
 - Sass / SCSS
 - HTML.
 
-Skills under development:
-- Rust
-- German language
-- Go
+Skills under development: Java, Rust, German language, Go, AWS, Kubernetes.
