@@ -12,8 +12,7 @@ My usual tech stack:
 - Angular
 - React, Next.js
 - Node.js
-- CSS
-- Sass / SCSS
+- CSS, Sass / SCSS
 - HTML.
 
 Skills under development: Java, Rust, German language, Go, AWS, Kubernetes.
