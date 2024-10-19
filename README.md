@@ -13,4 +13,4 @@ My usual tech stack:
 - CSS, Sass / SCSS
 - HTML.
 
-Skills under development: Java, Rust, German language, Go, AWS, Kubernetes.
+Skills under development: Rust, German language, AWS.
