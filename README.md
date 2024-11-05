@@ -15,4 +15,4 @@ My usual tech stack:
 
 Skills under development: Rust, German language, AWS.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balintkissdev&layout=compact&hide=html,css,PHP,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krondorl&layout=compact&hide=html,css,PHP,scss)](https://github.com/anuraghazra/github-readme-stats)
