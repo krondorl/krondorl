@@ -10,6 +10,4 @@ My usual tech stack:
 - CSS, Sass / SCSS
 - HTML.
 
-Skills under development: Rust, German language, AWS.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krondorl&layout=compact&hide=html,css,PHP,scss)](https://github.com/anuraghazra/github-readme-stats)
