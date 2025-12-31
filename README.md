@@ -10,4 +10,4 @@ Hard Skills:
 -	Cloud platforms: AWS.
 -	Practical experience: Rust, Java (made personal projects over 2.5 years).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krondorl&layout=compact&hide=html,css,PHP,scss?v1)](https://github.com/anuraghazra/github-readme-stats)
+
