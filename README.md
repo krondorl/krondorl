@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a curious person with a wide range of interests. I'm motivated by creation, learning, and creativity.
 
 Hard Skills:
@@ -9,4 +7,3 @@ Hard Skills:
 -	Tooling: Git, Jenkins, Docker, Swagger.
 -	Cloud platforms: AWS.
 -	Practical experience: Rust, Java (made personal projects over 3+ years).
-
